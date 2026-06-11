@@ -30,7 +30,7 @@ data-analyst-portfolio-project
 └── report/
     └── executive_summary.pdf    # Laporan analisis berkas PDF formal
 ```
-💻 Tech Stack & Data Pipelines
+## 💻 Tech Stack & Data Pipelines
 1. Data Cleaning & Preprocessing (Python)
 Missing Value & Duplicate Check: Memastikan integritas data dengan validasi completeness mencapai 100% (9.994 baris data aman dari nilai kosong atau duplikat).
 
@@ -49,7 +49,7 @@ Profit Margin: Mengukur efisiensi laba bersih terhadap nilai penjualan bersih da
 
 Unit Price: Menghitung harga satuan produk sebelum dikenakan potongan diskon.
 
-🔍 Key Insights & Data Exploration
+## 🔍 Key Insights & Data Exploration
 1. Paradox Diskon vs Profitabilitas
 Ditemukan korelasi negatif yang kuat antara besaran diskon dan profitabilitas: transaksi tanpa diskon hampir seluruhnya menghasilkan profit, sementara pemberian diskon tinggi secara agresif berpotensi besar memicu kerugian finansial.
 
@@ -62,7 +62,7 @@ Sub-Kategori Tables (Furniture): Memiliki Base Margin dasar yang tipis sebesar 1
 
 Produk Penahan Kerugian Terbesar: Sub-kategori Tables (-$17,7K) dan Bookcases (-$3,4K) menjadi beban profit terbesar akibat promo diskon yang tidak terkendali.
 
-💡 Strategic Recommendations
+## 💡 Strategic Recommendations
 Berdasarkan hasil analisis visual data, berikut adalah rekomendasi strategis untuk manajemen Superstore demi mengoptimalkan profit:
 
 Restrukturisasi Batas Maksimum Diskon (Dynamic Discount Ceiling):
@@ -74,13 +74,16 @@ Lakukan peninjauan kembali pada harga dasar Tables dan Bookcases. Tingkatkan efi
 Fokus Promosi pada Produk High-Margin:
 Alihkan anggaran kampanye pemasaran atau promo diskon besar ke segmen Technology (seperti Copiers dan Phones). Segmen ini memiliki struktur margin dasar yang sangat kuat sehingga tetap profitable meskipun diberikan diskon hingga 30%.
 
-🖥️ Interactive Dashboard Preview
-Berikut adalah gambaran dasbor interaktif Executive Profitability Overview yang dibangun untuk membantu jajaran manajemen mengambil keputusan berbasis data secara real-time:
+## 🖥️ Interactive Dashboard Preview
+Berikut adalah gambaran dasbor interaktif *Executive Profitability Overview* yang dibangun untuk membantu jajaran manajemen mengambil keputusan berbasis data secara *real-time*:
+
+![Dashboard Overview](output/Dashboard%201.png)
+![Detail Dashboard](output/Dashboard%202.png)
 
 Proyek ini diselesaikan sebagai bagian dari portofolio profesional Data Analytics (2026).
 
 
-👤 Author
+## 👤 Author
 
 Benedictus Irvanda Nugroho
 
