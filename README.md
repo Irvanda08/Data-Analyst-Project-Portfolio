@@ -78,3 +78,12 @@ Alihkan anggaran kampanye pemasaran atau promo diskon besar ke segmen Technology
 Berikut adalah gambaran dasbor interaktif Executive Profitability Overview yang dibangun untuk membantu jajaran manajemen mengambil keputusan berbasis data secara real-time:
 
 Proyek ini diselesaikan sebagai bagian dari portofolio profesional Data Analytics (2026).
+
+
+👤 Author
+
+Benedictus Irvanda Nugroho
+
+Data Analytics Portfolio Project (2026)
+
+Focused on transforming business data into actionable insights through data cleaning, exploratory data analysis, visualization, and business intelligence reporting.
